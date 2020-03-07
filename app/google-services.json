@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "592190277172",
+    "firebase_url": "https://prawojazdy1-91eae.firebaseio.com",
+    "project_id": "prawojazdy1-91eae",
+    "storage_bucket": "prawojazdy1-91eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592190277172:android:3a48e07c173b29e2bb6c61",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592190277172-3djhf4lnmbbqn3e130vrjqr3kc1og7jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZzZnhTXQ8bW-ztWONZdhFU80mWocSQ6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592190277172-3djhf4lnmbbqn3e130vrjqr3kc1og7jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592190277172:android:506d558eca4648b9bb6c61",
+        "android_client_info": {
+          "package_name": "com.example.prawojazdy1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592190277172-p96o699raqppfv9ri2eac4m5v89hdljt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prawojazdy1",
+            "certificate_hash": "f309512d6eac7942632cc22726300193ecf935b4"
+          }
+        },
+        {
+          "client_id": "592190277172-3djhf4lnmbbqn3e130vrjqr3kc1og7jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZzZnhTXQ8bW-ztWONZdhFU80mWocSQ6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592190277172-3djhf4lnmbbqn3e130vrjqr3kc1og7jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

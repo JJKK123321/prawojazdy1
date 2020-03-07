@@ -1,0 +1,43 @@
+<resources>
+    <array name="kat">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </array>
+    <string name="tekst">Wybierz kategorie: </string>
+    <string name="but1">A</string>
+    <string name="but2">B</string>
+    <string name="but3">C</string>
+    <string name="but4">D</string>
+    <string name="pya">Czy w tej sytuacji jestes zobowiązany do zatrzymania się?</string>
+    <string name="pyb">Czy ten znak informuje nas o drodze dla pieszych?</string>
+    <string name="pyc">Czy jadąc na wprost na tym skrzyżowaniu masz obowiązek ustąpić pierszeństwa pojazdowi z lewej strony?</string>
+    <string name="pyc1">Czy przy mocowaniu ładunku przewozowego masz prawo stosować łańcuchy stalowe? </string>
+    <string name="pyd">Czy w tej sytuacji kierując autobusem wolno ci wyprzedzić samochód osobowy? </string>
+    <string name="pyd1">Czy masz obowiązek zatrzymać się w wyznaczonym miejscu? </string>
+    <string name="pyc2">Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem? </string>
+    <string name="pyb1">Czy pojazd, który ma włączone sygnały świetlne w postaci niebieskich świateł błyskowych oraz sygnały dźwiękowe o zmiennym tonie, jest pojazdem uprzywilejowanym?</string>
+    <string name="pyb2">Czy masz obowiązek sygnalizować zamiar zmiany pasa ruchu, jeśli w tej sytuacji jedziesz przy prawej krawędzi jezdni?</string>
+    <string name="pyb3">Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?</string>
+    <string name="pya1"> Czy na jezdni za tym znakiem pionowym możesz wykonać manewr cofania?</string>
+    <string name="pya2"> Czy w tej sytuacji wolno ci zawrócić?</string>
+    <string name="pya3"> Czy w tak oznakowanym miejscu wolno ci zmienic pas ruchu?</string>
+    <string name="pya4"> Czy w tej sytuacji masz prawo zrezygnować z użycia kierunkowskazu przy zmianie pasa?</string>
+    <string name="s">Sprawdz wyniki</string>
+    <string name="T">TAK</string>
+    <string name="N"> NIE </string>
+    <string name="wyn"> WYNIKI </string>
+    <string name="wyns"> Statystyka </string>
+    <string name="name"> Wpisz swoje imię </string>
+    <string name="dodaj"> Dodaj </string>
+    <string name="kk"> Prawidlowych odpowiedzi:  </string>
+    <string name="mm"> Powinieneś wpisać imie  :( </string>
+    <string name="mml"> Dodany! :D </string>
+    <string name="email"> Email </string>
+    <string name="haslo"> Hasło </string>
+    <string name="sign"> Zarejestruj </string>
+    <string name="siggn"> Zostałeś zarejestrowany </string>
+    <string name="rejestracja"> Rejestracja </string>
+
+</resources>

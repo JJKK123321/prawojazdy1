@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="kat">
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    </array>
+    <string name="sign"> Sign up </string>
+    <string name="siggn"> Registered successfully </string>
+    <string name="rejestracja"> Sign up </string>
+
+    <string name="email"> Email </string>
+    <string name="haslo"> Password </string>
+    <string name="mml"> Added! :D </string>
+    <string name="dodaj"> Add </string>
+    <string name="mm"> You should enter a name :( </string>
+    <string name="name"> Enter your name </string>
+    <string name="kk"> Correct answers:  </string>
+    <string name="wyns"> Statistics </string>
+    <string name="wyn"> RESULTS </string>
+    <string name="N">NO</string>
+    <string name="T">YES</string>
+    <string name="pya">In this situation, are you obliged to stop?</string>
+    <string name="pya1">Can you perform a reversing maneuver on the road behind this vertical sign?</string>
+    <string name="pya2">" Are you allowed to turn back in this situation?"</string>
+    <string name="pya3">" Can you change lane in such a marked place?"</string>
+    <string name="pya4">" In this situation, do you have the right to opt out of using the direction indicator when changing lanes?"</string>
+    <string name="pyb">Does this sign inform us about the pedestrian route?</string>
+    <string name="pyb1">Is the vehicle, which has the blue light flashing lights and the variable tone sound signals turned on, is a privileged vehicle?</string>
+    <string name="pyb2">Do you have to signal your intention to change lane if you are driving along the right edge of the road in this situation?</string>
+    <string name="pyb3">Do you have the right to use a sound signal to warn others of imminent danger?</string>
+    <string name="pyc">Are you obliged to drive straight ahead on the left when driving straight ahead at this intersection?</string>
+    <string name="pyc1">"Do you have the right to use steel chains when securing the transport load? "</string>
+    <string name="pyc2">"Are you obliged to signal this with a direction indicator earlier by slightly changing the vehicle's path within the lane it has been occupying so far? "</string>
+    <string name="pyd">"In this situation, are you allowed to overtake a car while driving a bus? "</string>
+    <string name="pyd1">Do you have to stop at a designated place?</string>
+    <string name="s">Check the results</string>
+    <string name="tekst">"Choose categories: "</string>
+    <string name="but1">A</string>
+    <string name="but2">B</string>
+    <string name="but3">C</string>
+    <string name="but4">D</string>
+</resources>

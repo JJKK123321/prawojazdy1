@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/tlloo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pyc"
+        android:textSize="20dp"
+        android:textColor="#f000"/>
+
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="280dp"
+        android:src="@drawable/pytc" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="100dp"
+        >
+
+        <Button
+            android:id="@+id/tak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/T"
+            android:textSize="50dp"
+            android:onClick="tak">
+
+
+        </Button>
+        <Button
+            android:id="@+id/nie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/N"
+            android:textSize="50dp"
+            android:onClick="tak"
+            >
+
+        </Button>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/wyn"
+        android:textColor="@color/colorjj"
+        android:textSize="50dp"
+        android:enabled="false"
+        android:visibility="invisible"
+        android:background="@color/colorkk"
+        />
+
+
+</LinearLayout>
+
+
+
+
